@@ -1,0 +1,4 @@
+name: FixWorldEditCUI
+main : org.cyberiantiger.minecraft.fixworldeditcui.Main
+version: ${version}
+author: cybertiger
